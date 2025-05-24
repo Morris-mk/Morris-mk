@@ -1,4 +1,4 @@
-- Hi there👋, I’m Morris Musee
+- Hello there👋, I’m Morris Musee
 - I'm a highly motivated and creative budding Data Scientist with a passion for building innovative Data driven solutions to solve business challenges
 - I'm proficient in data analysis leveraging tools such as SQL, PowerBI, and Python to derive actionable insights
 - Currently, I am actively enhancing my expertise in designing and implementing machine learning models.
