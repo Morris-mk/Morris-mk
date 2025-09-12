@@ -1,18 +1,26 @@
 ## 👋 Welcome to My GitHub Profile!
-I'm Morris Musee, a dedicated and innovative Data Scientist passionate about transforming complex business challenges into actionable, data-driven solutions. With a strong foundation in data analysis and machine learning, I thrive on uncovering insights that drive impactful decision-making.
+I'm Morris Musee, a dedicated and innovative Data Scientist passionate about transforming complex business challenges into actionable, data-driven solutions. 
+
+With a strong foundation in data analysis and machine learning, I thrive on uncovering insights that drive impactful decision-making.
 
 ## 🔍 About Me
 
 **Expertise:** Skilled in leveraging Python, SQL, and PowerBI to perform in-depth data analysis, create compelling visualizations, and deliver actionable insights.
+
 **Current Focus:** Actively advancing my expertise in designing, implementing, and deploying machine learning models to solve real-world business problems.
+
 **Passion:** Committed to exploring datasets, identifying trends, and crafting solutions that generate tangible business value.
+
 **Collaboration:** Enthusiastic about engaging in collaborative data science projects to enhance my skills and contribute to innovative initiatives.
 
 ## 🛠️ Skills & Tools
 
 **Data Analysis & Visualization:** Statisical analysis using Python (Pandas, NumPy, Matplotlib, Seaborn), PowerBI
+
 **Machine Learning:** Scikit-learn, feature engineering, model development
+
 **Database Management:** SQL
+
 **Other Interests:** Exploratory data analysis, data preprocessing, and linear algebra for data science
 
 ## 🚀 What I'm Working On
