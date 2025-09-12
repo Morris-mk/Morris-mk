@@ -1,4 +1,4 @@
-👋 Welcome to My GitHub Profile!
+## 👋 Welcome to My GitHub Profile!
 I'm Morris Musee, a dedicated and innovative Data Scientist passionate about transforming complex business challenges into actionable, data-driven solutions. With a strong foundation in data analysis and machine learning, I thrive on uncovering insights that drive impactful decision-making.
 
 ## 🔍 About Me
