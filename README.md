@@ -23,6 +23,21 @@ With a strong foundation in data analysis and machine learning, I thrive on unco
 
 **Other Interests:** Exploratory data analysis, data preprocessing, and linear algebra for data science
 
+## 🎯 Featured Projects
+
+### [🪙 Loan Approval Predictor](https://github.com/Morris-mk/Loan_Approval_Predictor)
+**Streamlining Operations:**  Python|Regression(LightGBM Regressor)|Classification(LightGBM Classifier)
+This project streamlines the tedious and labor-intensive loan approval process by utilizing efficient ensemble machine learning models to evaluate customer profiles and determine loan approval or denial. For approved applicants, the system calculates an appropriate loan amount, optimizing efficiency and accuracy. 
+
+### [📊 IFood Marketing-Data Analysis, Segmentation and Classification](https://github.com/Morris-mk/IFood_Marketing-data-Analysis-segmentation-and-classification)
+**Targeted and Informed Marketing** Python|Segmentation(KMeans Clustering)|Classification(RandomForest Classifier)
+A comprehensive analysis of iFood(a leading food delivery app in Brazil) customer response data from past marketing campaigns was conducted to identify key factors influencing customer reactions, whether positive or negative. Segmentation and classification machine learning models were employed to cluster customers based on their profiles and predict their responses, enabling more targeted and effective future marketing campaigns. 
+
+### 📈 [Time Series Forecasting](https://github.com/Morris-mk/Time_series_Analysis_-_Forecasting)
+**Business Forecasting** Prophet|Python
+This project leverages Meta AI's Prophet, a robust forecasting tool, to analyze time series data and uncover trends, seasonal patterns, and holiday effects. By modeling historical data, Prophet identifies recurring patterns, such as weekly or yearly seasonality, and accounts for holiday-driven fluctuations, enabling accurate predictions.
+
+
 ## 🚀 What I'm Working On
 
 - Machine learning models deployments to address complex business challenges.
